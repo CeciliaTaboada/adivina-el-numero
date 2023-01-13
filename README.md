@@ -8,4 +8,3 @@ Requisitos para ejecutar:
 -Instalar Python 3.9 o superior
 -Instalar Visual Studio Code
 -Descargar programa y ejecutar el Visual Studio Code
-
